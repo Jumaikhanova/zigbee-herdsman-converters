@@ -1,5 +1,17 @@
 # Changelog
 
+## [18.10.0](https://github.com/Koenkk/zigbee-herdsman-converters/compare/v18.9.0...v18.10.0) (2024-01-07)
+
+
+### Features
+
+* Add category attribute to exposes  ([#6837](https://github.com/Koenkk/zigbee-herdsman-converters/issues/6837)) ([3a1b7a9](https://github.com/Koenkk/zigbee-herdsman-converters/commit/3a1b7a9b0c12499f93044c0f00d356673d8acc4a))
+
+
+### Bug Fixes
+
+* OTA logging: fixed typos / minor changes ([#6854](https://github.com/Koenkk/zigbee-herdsman-converters/issues/6854)) ([22c4673](https://github.com/Koenkk/zigbee-herdsman-converters/commit/22c4673533b9380dc4d8abb115c70069e607ee13))
+
 ## [18.9.0](https://github.com/Koenkk/zigbee-herdsman-converters/compare/v18.8.0...v18.9.0) (2024-01-07)
 
 
